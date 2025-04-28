@@ -24,7 +24,7 @@ const Products: React.FC = () => {
             quantity={5} 
             price="R$ 59,90" 
             onClick={handleProductClick}
-            imageUrl="/images/combo-5.PNG"
+            imageUrl="/images/combo-5.jpg"
             checkoutUrl="https://pay.checkoutseguros.com/checkout/52b64c31-aa3b-4d94-b9b6-7e2e9eb2bc06"
           />
           <ProductCard 
@@ -32,14 +32,14 @@ const Products: React.FC = () => {
             price="R$ 99,90" 
             isPopular={true} 
             onClick={handleProductClick}
-            imageUrl="/images/combo-10.PNG"
+            imageUrl="/images/combo-10.jpg"
             checkoutUrl="https://pay.checkoutseguros.com/checkout/40f35515-8a33-4b8e-aa32-53d69df9614e"
           />
           <ProductCard 
             quantity={20} 
             price="R$ 179,90" 
             onClick={handleProductClick}
-            imageUrl="/images/combo-20.PNG"
+            imageUrl="/images/combo-20.jpg"
             checkoutUrl="https://pay.checkoutseguros.com/checkout/96ac2e76-a52c-45bf-8ba3-3f3a59025c92"
           />
         </div>

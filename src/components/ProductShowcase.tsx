@@ -26,7 +26,7 @@ const ProductShowcase: React.FC = () => {
 
           <div className="rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-all relative">
             <img
-              src="/images/iphone-pro-series.PNG"
+              src="/images/iphone-pro-series.jpg"
               alt="iPhone Pro Box"
               className="w-full h-48 object-cover"
             />
@@ -38,7 +38,7 @@ const ProductShowcase: React.FC = () => {
 
           <div className="rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-all relative">
             <img
-              src="/images/iphone15-series.PNG"
+              src="/images/iphone15-series.jpg"
               alt="iPhone 15 Box"
               className="w-full h-48 object-cover"
             />
@@ -50,7 +50,7 @@ const ProductShowcase: React.FC = () => {
 
           <div className="rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-all relative">
             <img
-              src="/images/exposicao-profissional.PNG"
+              src="/images/exposicao-profissional.jpg"
               alt="iPhone Display"
               className="w-full h-48 object-cover"
             />
@@ -62,7 +62,7 @@ const ProductShowcase: React.FC = () => {
 
           <div className="rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-all relative">
             <img
-              src="/images/visual-premium.PNG"
+              src="/images/visual-premium.jpg"
               alt="Store Display"
               className="w-full h-48 object-cover"
             />
